@@ -7,11 +7,11 @@ Trata-se de um serviço de cloud que nos permite criar, gerir e aumentar a nossa
 
 ## Benefícios
 
-Scalability: Dependendo das necessidades da nossa aplicação podemos escalar a nossa base de dados tanto verticalmente (aumentando os recursos do servidor) como horizontalmente (colocando a nossa base de dados disponível em mais servidores)
-Segurança: Podemos controlar o acesso á nossa DB e até mesmo encriptar pedidos.
-Disponibilidade : O Atlas permite-nos colocar uma DB em várias regiões, o que garante que o serviço se mantéma tivo mesmo em caso de falhas de rede.
-Automação: É possível automatizar algumas tarefas como backups, atualizações de software e monitorização.
-Presença Global: O serviço Atlas está disponível em várias regiões e através de diversos "providers" como AWS e Azure, o que permite fazer host da base de dados o mais perto possível do utlizador base.
+- Scalability: Dependendo das necessidades da nossa aplicação podemos escalar a nossa base de dados tanto verticalmente (aumentando os recursos do servidor) como horizontalmente (colocando a nossa base de dados disponível em mais servidores)
+- Segurança: Podemos controlar o acesso á nossa DB e até mesmo encriptar pedidos.
+- Disponibilidade : O Atlas permite-nos colocar uma DB em várias regiões, o que garante que o serviço se mantéma tivo mesmo em caso de falhas de rede.
+- Automação: É possível automatizar algumas tarefas como backups, atualizações de software e monitorização.
+- Presença Global: O serviço Atlas está disponível em várias regiões e através de diversos "providers" como AWS e Azure, o que permite fazer host da base de dados o mais perto possível do utlizador base.
 
 ## Criar uma conta
 
